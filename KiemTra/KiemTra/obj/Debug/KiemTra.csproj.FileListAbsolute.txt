@@ -1,0 +1,17 @@
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\EntityFramework.dll
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\EntityFramework.xml
+C:\Users\nguye\source\repos\KiemTra\KiemTra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CopyComplete
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.frmLienLac.resources
+C:\Users\nguye\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.frmNhom.resources
